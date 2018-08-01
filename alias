@@ -11,4 +11,4 @@ alias sbp=". ~/.bash_profile"
 alias cbp="cat ~/.bash_profile"
 alias vbp="vi ~/.bash_profile"
 
-alias cltb="root/go/src/github.com/oushu-io/littleboy"
+alias cltb="cd /root/go/src/github.com/oushu-io/littleboy"
