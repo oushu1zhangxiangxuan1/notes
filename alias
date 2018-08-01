@@ -10,3 +10,5 @@ alias scpltb="scp /home/oushu/ZXX_test/go/src/github.com/oushu-io/littleboy/dist
 alias sbp=". ~/.bash_profile"
 alias cbp="cat ~/.bash_profile"
 alias vbp="vi ~/.bash_profile"
+
+alias cltb="root/go/src/github.com/oushu-io/littleboy"
