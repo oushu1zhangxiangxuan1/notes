@@ -5,3 +5,8 @@ alias stopltb="/usr/local/oushu/littleboy/sbin/stop-server.sh"
 alias ltbh="cd /usr/local/oushu/littleboy/"
 alias cpltb="cp /home/oushu/ZXX_test/go/src/github.com/oushu-io/littleboy/dist/littleboy/bin/littleboy  /usr/local/oushu/littleboy-1.0.0.0/bin/"
 alias scpltb="scp /home/oushu/ZXX_test/go/src/github.com/oushu-io/littleboy/dist/littleboy/bin/littleboy  oushu@139.219.12.13:/usr/local/oushu/littleboy-1.0.0.0/bin/"
+
+
+alias sbp=". ~/.bash_profile"
+alias cbp="cat ~/.bash_profile"
+alias vbp="vi ~/.bash_profile"
