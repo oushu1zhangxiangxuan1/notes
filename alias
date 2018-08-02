@@ -13,6 +13,6 @@ alias vbp="vi ~/.bash_profile"
 
 alias cltb="cd /root/go/src/github.com/oushu-io/littleboy"
 
-alias cpltb="cp /root/go/src/github.com/oushu-io/littleboy/dist/littleboy/bin/littleboy /usr/local/oushu/littleboy/bin/"
+alias cpltb="\cp /root/go/src/github.com/oushu-io/littleboy/dist/littleboy/bin/littleboy /usr/local/oushu/littleboy/bin/"
 
 alias blb="cd /root/go/src/github.com/oushu-io/littleboy;./build.sh skip-dataproc;cd -"
